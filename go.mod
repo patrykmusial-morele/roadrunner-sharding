@@ -1,3 +1,3 @@
-module github.com/owner/sharding
+module github.com/patrykmusial-morele/roadrunner-sharding
 
 go 1.25
